@@ -1,0 +1,26 @@
+:root {
+  --main-dark-color: #070707;
+  --main-grey-color: #9b9b9b;
+  --main-light-color: #f6f6f6;
+  --main-color: #f14505;
+  --secondary-color: #f28055;
+  --tertiary-color: #f4bba5;
+  --opacity-dark-color: rgba(7, 7, 7, 0.5);
+
+  --header-text-size: 18px;
+  --h1-size: 100px;
+  --h2-size: 46px;
+  --h3-size: 84px;
+  --h5-size: 20px;
+  --paragraph-size: 16px;
+  --alt-paragraph-size: 20px;
+  --secondary-paragraph-size: 38px;
+  --standart-gap-size: 46px;
+  --gap-size: 16px;
+  --second-gap-size: 124px;
+
+  --line-height: 24px;
+  --line-height-h3: 82px;
+
+  --theme-padding: 20px;
+}
